@@ -1,0 +1,36 @@
+.meImage {
+border-radius: 50px;
+max-height: 225px;
+
+}
+
+.left {
+  width: 20%;
+  float: left;
+
+}
+
+.right {
+  margin-left: 20%;
+}
+
+.container {
+  max-width: 200px;
+  margin: 50px;
+  padding: 20px;
+  max-height: inherit;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  background-image: url('../../Images/images.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}

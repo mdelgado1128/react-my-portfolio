@@ -1,0 +1,12 @@
+.photo {
+  height: 300px;
+ 
+}
+.body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  background-image: url('../../Images/images.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}

@@ -11,7 +11,7 @@ import resume from "../../components/resume/resume";
 function Contact () {
 
 return (
-<div className="container jumbotron body">
+<div className=" jumbotron">
         <h1>Contact Information </h1>
       
         <ul> 

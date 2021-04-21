@@ -7,7 +7,7 @@ import CSS from "./about.css";
 function About (){
 
 return (
-<div className="jumbotron container body">
+<div className="jumbotron body">
     <div>
         <h1>About Me</h1>
     </div>

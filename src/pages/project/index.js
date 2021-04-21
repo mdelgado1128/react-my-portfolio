@@ -8,14 +8,14 @@ import CSS from "./index.css";
 
 function Project() {
   return (
-    <div className="container body">
+    <div className=" body">
             <h1>Projects</h1>
 
 
       <div className="jumbotron">
             <h2>Lyric Translator </h2>   
         <img className="photo" src={songTranslation} alt="me" />
-        <div className="container">
+        <div className="">
           <p>Link to application:</p>      
           <a href="https://curtis-hatter.github.io/Song-Translation-Application/">
             https://curtis-hatter.github.io/Song-Translation-Application/
@@ -27,7 +27,7 @@ function Project() {
       <h2>Weather Dashboard </h2>   
 
         <img className="photo" src={weatherDashboard} alt="me" />
-        <div className="container">
+        <div className="">
         <p>Link to application:</p>  
         <a href="https://mdelgado1128.github.io/Weather-Dashboard/">
                 https://mdelgado1128.github.io/Weather-Dashboard/</a>
@@ -39,7 +39,7 @@ function Project() {
       <h2>Chef Kiss </h2>   
 
         <img className="photo" src={chefKiss} alt="me" />
-        <div className="container">
+        <div className="">
         <p>Link to application:</p>  
           <a href="https://chefs-kiss.herokuapp.com/">
             https://chefs-kiss.herokuapp.com/
